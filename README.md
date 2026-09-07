@@ -14,8 +14,8 @@ As seguintes ferramentas e bibliotecas foram utilizadas no desenvolvimento:
 - Python 3.13
 - Google Colab
 - Jupyter Notebook
-- Pandas & NumPy: Manipulação e tratamento dos dados geográficos.
-- Scikit-Learn: Implementação de algoritmos de clusterização.
+- Pandas & NumPy: Manipulação e tratamento dos dados.
+- Scikit-Learn: Implementação de algoritmos de regressão.
 - MatplotLib e Seaborn: Exibição de gráficos com dados estatisticos.
 - Astral: Informações sobre o sol em relação a terra.
 
